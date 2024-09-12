@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Anderson lozano - Tec. Software - 20241222418
+
 public class TallerClase {
     public static void main(String[] args) {
 
